@@ -12,3 +12,6 @@ Controller Class - instantiated  by FXML loader
 -event handlers for ui elements
 -can have initialize method 
 - default constructor must be public
+
+
+Error with FXML Loader***
